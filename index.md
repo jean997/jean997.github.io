@@ -21,18 +21,18 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
   <br>
   <br> I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
 	Human Genetics</a>
-  <br>	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
+  	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
  	co-mentored by <a href="http://xinhelab.org">Xin He</a> and
 	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
   <br>
   <br>My research generally involves using statistics to answer questions that 
-  <br> arise in human genetics. Applications I am particularly excited about right 
-  <br> now include gene regulation, testing associations with spatially structured 
-  <br> data tyepes, integration GWAS and epigentic data, and using summary statistics 
-  <br> from multiple GWAS to learn about the relationships between phenotypes.
+   	arise in human genetics. Applications I am particularly excited about right 
+   now include gene regulation, testing associations with spatially structured 
+   data tyepes, integration GWAS and epigentic data, and using summary statistics 
+   from multiple GWAS to learn about the relationships between phenotypes.
   <br>
   <br> I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
-  <br>	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
+  	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
   </td>
 
   <td class="right">
