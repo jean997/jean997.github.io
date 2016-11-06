@@ -18,6 +18,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 <tr>
   <td class="left">
 	<img src="pages/icons16/JeanMorrison.jpg" style="width: 75%; height: 30%" alt="my profile picture" title = "profile picture"/>
+   </td>
   <td class="right">
   <br><b> Jean Morrison
   <br>
@@ -35,7 +36,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 
   <br> I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a></br>
   <br>	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
-
+  </td>
 </tr>
 </table>
 
