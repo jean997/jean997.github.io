@@ -30,13 +30,13 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
   <br>
   <br>My research generally involves using statistics to answer questions 
-  <br> that arise in human genetics. Applications I am particularly excited 
-  <br> about right now include gene regulation, testing associations with 
-  <br> spatially structured data tyepes, integrating GWAS and epigentic data, 
-  <br> and using summary statistics  from multiple GWAS to learn about the 
-  <br> relationships between phenotypes.
+   that arise in human genetics. Applications I am particularly excited 
+   about right now include gene regulation, testing associations with 
+   spatially structured data tyepes, integrating GWAS and epigentic data, 
+   and using summary statistics  from multiple GWAS to learn about the 
+  relationships between phenotypes.
   <br>
-  <br> I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a></br>
+  <br> I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
   </td>
 
