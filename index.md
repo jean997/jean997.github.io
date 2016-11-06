@@ -14,10 +14,10 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
   </div>
 </div>
 
-<style> .equal-width td {   width: 50%; } </style> 
-<table class="equal-width">
+<!--style> .equal-width td {   width: 50%; } </style--> 
+<table class="wide">
 <tr>
-  <td class="left">
+  <td class="left" width="50%">
 	<img src="pages/icons16/JeanMorrison.jpg" style="width: 75%; height: 30%" alt="my profile picture" title = "profile picture"/>
    </td>
   <td class="left">
