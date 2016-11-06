@@ -14,14 +14,18 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
   </div>
 </div>
 
-<table class="wide">
+<style> .equal-width td {   width: 50%; } </style> 
+<table class="equal-width">
 <tr>
+  <td class="left">
+	<img src="pages/icons16/JeanMorrison.jpg" style="width: 75%; height: 30%" alt="my profile picture" title = "profile picture"/>
+   </td>
   <td class="left">
   <br><b> Jean Morrison</b>
   <br>
   <br> I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
 	Human Genetics</a>
-  <br> 	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
+   	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
  	co-mentored by <a href="http://xinhelab.org">Xin He</a> and
 	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
   <br>
@@ -36,9 +40,6 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
   </td>
 
-  <td class="right">
-	<img src="pages/icons16/JeanMorrison.jpg" style="width: 75%; height: 30%" alt="my profile picture" title = "profile picture"/>
-   </td>
 </tr>
 </table>
 
