@@ -29,8 +29,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
    I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
-  <br> In my research, I develop statistical methods motivated by problems in genetics and genomics. Right now I am particularly excited about understanding the genetic architecture of gene regulation, integrating multiple genetic studies to learn about the biological relationships between traits, and association te
-sting with spatially structured data types. 
+  <br> In my research, I develop statistical methods motivated by problems in genetics and genomics. Right now I am particularly excited about understanding the genetic architecture of gene regulation, integrating multiple genetic studies to learn about the biological relationships between traits, and association testing with spatially structured data types. 
   </td>
 
 </tr>
