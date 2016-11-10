@@ -23,11 +23,8 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
   <td class="left">
   <br><b> Jean Morrison</b>
   <br>
-  <br> I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
-	Human Genetics</a>
-   	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
- 	co-mentored by <a href="http://xinhelab.org">Xin He</a> and
-	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
+  <br> I am a postdoc in the [Department of Human Genetics]("http://www.genes.uchicago.edu") at the [University of Chicago]("http://www.uchicago.edu"),
+ 	co-mentored by [Xin He]("http://xinhelab.org") and [Mathew Stephens]("http://stephenslab.uchicago.edu").
   <br>
   <br>My research generally involves using statistics to answer questions 
    that arise in human genetics. Applications I am particularly excited 
@@ -36,8 +33,8 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
    and using summary statistics  from multiple GWAS to learn about the 
   relationships between phenotypes.
   <br>
-  <br> I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
-  	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
+  <br> I recieved my Ph.D. in Biostatistics from the [University of Washington]("https://www.biostat.washington.edu")
+  	advised by [Noah Simon]("http://www.faculty.washington.edu/nrsimon/").
   </td>
 
 </tr>
