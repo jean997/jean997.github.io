@@ -27,15 +27,18 @@ In both of these projects, our motivations come from genomic data but there are 
 
 #### Flexible Robust Excursion Test (FRET)
 FRET is a method for testing associations with genomic phenotypes that can both adaptively learn the boundaries of associated regions and control the false discovery rate. 
-Previous methods for solving this problem.
-[![github](icons16/github-icon.png)](https://github.com/jean997/fret)
+Previous methods for solving this problem. A manuscript describing FRET is currently in preparation. Feel free to contact me for more details.
+[R-package](https://github.com/jean997/fret)
 
 
 
 #### Joint Adaptive Differential Estimation (JADE)
 
 JADE is a more graphical/descriptive tool for identifying associations between one spatially structured trait and one categorical trait. We use penalized likelihood to estimate smooth profiles borrowing both across positions and catgories. 
-[![github](icons16/github-icon.png)](https://github.com/jean997/jadeTF)
+In press at [Biostatistics](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033).
+[R-package](https://github.com/jean997/jadeTF)
+[pdf](papers/jade_main.png)/[supplement](papers/jade_supp.png)
+[arxiv]()
 
 ### <a name="rcc"></a>Rank Conditional Coverage
 
