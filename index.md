@@ -26,7 +26,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
    	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
  	co-mentored by <a href="http://xinhelab.org">Xin He</a> and
 	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
-   I recieved my Ph.D. in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
+   I recieved my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
   <br> In my research, I develop statistical methods motivated by problems in genetics and genomics. Right now I am particularly excited about understanding the genetic architecture of gene regulation, integrating multiple genetic studies to learn about the biological relationships between traits, and association testing with spatially structured data types. 
