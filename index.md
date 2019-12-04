@@ -18,7 +18,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 <table class="wide">
 <tr>
   <td class="left" width="50%">
-	<img src="pages/icons16/JeanMorrison.jpg" style="width: 75%; height: 30%" alt="my profile picture" title = "profile picture"/>
+	<img src="pages/pics/Jean-5.png" style="width: 75%; height: 30%" alt="Me!" title = "profile picture"/>
    </td>
   <td class="left">
  I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
@@ -29,7 +29,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
    I recieved my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
-  <br> In my research, I develop statistical methods motivated by problems in genetics and genomics. Right now I am particularly excited about understanding the genetic architecture of gene regulation, integrating multiple genetic studies to learn about the biological relationships between traits, and association testing with spatially structured data types. 
+  <br> I develop statistical methods motivated by problems in genetics and genomics. Many of my current projects focus is on using genetic associations to understand causal and non-causal relationships between clinical traits (symptoms, diseases, etc), biomarkers, and -omic traits (like gene expression).  I am also interested in association testing for spatially structured data types, and more broadly, in robust and non-parametric statistical methods. 
   </td>
 
 </tr>
