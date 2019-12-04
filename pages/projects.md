@@ -19,7 +19,9 @@ description: Jean Morrison's projects
 Mendelian randomization (MR) is an increasingly popular technique for inferring causal effects between traits that cannot be (or have not been) studied using randomized trials. MR is a variation of instrumental variable analysis in which genetic variants are used as instruments. MR is incredibly appealing because it promises information about causal effects using only summary genetic association data which is now publicly available for a cornucopia of traits. Unfortunately, the assumptions that MR makes about the variants used are quite strict, difficult to verify, and often violated. We developed a Bayesian approach to MR that is robust to a wider range of violations that existing methods. 
 
 [Website:](https://jean997.github.io/cause/) Read a longer introduction and some software tutorials
+
 [R-package](https://github.com/jean997/cause)
+
 [Pre-Print](https://www.biorxiv.org/content/10.1101/682237v3)
 
 
@@ -47,9 +49,12 @@ FRET is a method for testing associations with genomic phenotypes that can both 
 
 JADE is a more graphical/descriptive tool for identifying associations between one spatially structured trait and one categorical trait. We use penalized likelihood to estimate smooth profiles borrowing both across positions and catgories. 
 
-Published in [Biostatistics](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033).
-[R-package](https://github.com/jean997/jadeTF)
+[Paper](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033).
+
 [pdf](papers/jade_main.png)/[supplement](papers/jade_supp.png)
+
+[R-package](https://github.com/jean997/jadeTF)
+
 
 ### <a name="rcc"></a>Rank Conditional Coverage
 
