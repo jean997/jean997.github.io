@@ -20,7 +20,7 @@ description: Jean Morrison's projects
 Mendelian randomization (MR) is an increasingly popular technique for inferring causal effects between traits that cannot be (or have not been) studied using randomized trials. MR is a variation of instrumental variable analysis in which genetic variants are used as instruments. MR is incredibly appealing because it promises information about causal effects using only summary genetic association data which is now publicly available for a cornucopia of traits. Unfortunately, the assumptions that MR makes about the variants used are quite strict, difficult to verify, and often violated. We developed a Bayesian approach to MR that is robust to a wider range of violations that existing methods. In particular, most existing methods assum that no variants acto on both traits through a common mechanism (we refer to this as correlate pleiotropy). Our proposal, CAUSE, is able to account for a proportion of correlated pleiotropic variants which helps it avoid false positives. 
 
 <p align="center">
-  <img src="pics/cause_fig1.png" width=400 />
+  <img src="pics/cause_fig1.png" width="400" alt="traditional mr assumptions"/>
 </p>
 
 You can read a much longer introduction on the project [website:](https://jean997.github.io/cause/) as well as looking at some results for real traits and walking through a software tutorial.
