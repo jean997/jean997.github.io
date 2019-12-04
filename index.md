@@ -18,7 +18,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 <table class="wide">
 <tr>
   <td class="left" width="50%">
-	<img src="pages/pics/Jean-5.png" style="width: 75%; alt="Me!" title = "profile picture"/>
+	<img src="pages/pics/Jean-5.png" style="width: 75%" alt="Me!" title = "profile picture"/>
    </td>
   <td class="left">
  I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
