@@ -51,7 +51,7 @@ In both of these projects, our motivations come from genomic data but there are 
 FRET is a method for testing associations with genomic phenotypes that can both adaptively learn the boundaries of associated regions and control the false discovery rate.  FRET is based on the idea of an excursion test in which a test statistics are computed at many closely spaced positions and then smoothed. Associated regions are then identified as regions in which the smoothed test statistic excedes some threshold. This project is in progress!
 
 <p align="center">
-  <img src="pics/fret.png" width=400 />
+  <img src="pics/fret.png" width=400 alt="fret cartoon"/>
 </p>
 
 [R-package](https://github.com/jean997/fret)
@@ -62,8 +62,9 @@ FRET is a method for testing associations with genomic phenotypes that can both 
 JADE is a graphical/descriptive tool for identifying associations between one spatially structured trait and one categorical trait. We use penalized likelihood to estimate smooth profiles borrowing both across positions and catgories. 
 
 <p align="center">
-  <img src="pics/jade.png" width=400 />
+  <img src="pics/jade.png" width=400 alt="jade cartoon"/>
 </p>
+
 
 [Paper](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033)
 
