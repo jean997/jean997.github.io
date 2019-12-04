@@ -29,7 +29,7 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
    I recieved my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
-  <br> I develop statistical methods motivated by problems in genetics and genomics. Many of my current projects focus is on using genetic associations to understand causal and non-causal relationships between clinical traits (symptoms, diseases, etc), biomarkers, and -omic traits (like gene expression).  I am also interested in association testing for spatially structured data types, and more broadly, in robust and non-parametric statistical methods. 
+   <br> I develop statistical methods motivated by problems in genetics and genomics. I am currently excited about using patterns of genetic associations across traits to understand causal and non-causal relationships between clinical traits, biomarkers, and "omic" traits.  I am also interested in association testing for spatially structured data types, and more broadly, in robust and non-parametric statistical methods. 
   <br>
   <a href = "https://scholar.google.com/citations?hl=en&user=r6fNZ6cAAAAJ">See my publications on Google Scholar</a>
   </td>
