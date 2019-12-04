@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Selected Projects
 description: Jean Morrison's projects
 ---
 
@@ -49,14 +49,29 @@ FRET is a method for testing associations with genomic phenotypes that can both 
 
 JADE is a more graphical/descriptive tool for identifying associations between one spatially structured trait and one categorical trait. We use penalized likelihood to estimate smooth profiles borrowing both across positions and catgories. 
 
-[Paper](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033).
+[Paper](https://biostatistics.oxfordjournals.org/content/early/2016/08/04/biostatistics.kxw033)
 
-[pdf](papers/jade_main.png)/[supplement](papers/jade_supp.png)
+[pdf](papers/jade_main.pdf)/[supplement](papers/jade_supp.pdf)
 
 [R-package](https://github.com/jean997/jadeTF)
 
 
 ### <a name="rcc"></a>Rank Conditional Coverage
+
+Investigations using "big data" (or even moderate data) often involve computing a large number of estimates for similar parameters. For example, in GWAS, we compute the marginal association of each variant with the trait of interest. The next step is usually to select the parameters with the most significant/largest estimates and try to say something about them. Adjusting significance estimates for multiple comparisons is now common practice. However, it is less common to adjust point estimates and confidence intervals. 
+The problem with unadjusted estimates is that the act of selection introduces bias (known as the winner's curse). Parameters with the most significant estimates are more likely to be over-estimates of the true value than under estimates. A particular challenge with adjusting confidence intervals is that it is tricky to define a desirable coverage criterion in a selection setting. We introduced the concept of "rank conditional coverage" (RCC) and a bootstrapping based procedure for constructing intervals that control it. 
+The guarantee provided by controlling the RCC at level $\alpha$ is that the top ranked (or rank $j$) parameter will be contained in its confidence interval $1-\alpha$% of the time. We argue that this is an appealing criterion when parameter selection is based on rank. Looking at this criterion reveals a disturbing property of several other confidence intervals, including the unadjusted marginal estimate  --- the top ranked parameter is almost never contained in its corresponding interval!
+
+
+<img src="pics/rcc_sims.png" class="centerImage" width="500" alt="rank conditional coverage"/>
+
+
+[Paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1411270)
+
+[pdf](papers/rcc.pdf)
+
+[R-package](https://cran.r-project.org/web/packages/rcc/index.html)
+
 
 
 
