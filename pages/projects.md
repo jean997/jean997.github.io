@@ -28,7 +28,9 @@ You can read a much longer introduction on the project [website:](https://jean99
 
 [R-package](https://github.com/jean997/cause)
 
-[Pre-Print](https://www.biorxiv.org/content/10.1101/682237v3)
+[paper](https://www.nature.com/articles/s41588-020-0631-4)
+
+[biorxiv version](https://www.biorxiv.org/content/10.1101/682237v3)
 
 
 
