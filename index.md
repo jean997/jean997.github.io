@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Jean Morrison
-description: I am a postdoc at the University of Chicago, Department of Human Genetics. My research is in statistical genetics. 
-keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
+description: 
+keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
 ---
 
 <div class="navbar">
@@ -21,15 +21,15 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 	<img src="pages/pics/Jean-5.png" style="width: 75%" alt="Me!" title = "profile picture"/>
    </td>
   <td class="left">
- I am a postdoc in the <a href="http://www.genes.uchicago.edu">Department of 
-	Human Genetics</a>
-   	at <a href="http://www.uchicago.edu">the University of Chicago</a>,
- 	co-mentored by <a href="http://xinhelab.org">Xin He</a> and
-	<a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
+  I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. Previously, I did a postdoc 
+ 	co-mentored by <a href="http://xinhelab.org">Xin He</a> and <a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
+  in the <a href="http://www.genes.uchicago.edu">Department of 
+	Human Genetics</a> at the University of Chicago.
    I received my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
-   <br> I develop statistical methods motivated by problems in genetics and genomics. I am currently excited about using patterns of genetic associations across traits to understand causal and non-causal relationships between clinical traits, biomarkers, and "omic" traits.  I am also interested in association testing for spatially structured data types, and more broadly, in robust and non-parametric statistical methods. 
+   <br> I develop statistical methods motivated by problems in genetics and genomics. Currently, my research focuses on comparing patterns of pleiotropy (shared genetic associations) across many related phenotypes and using these patterns to infer underlying biological mechanisms and relationships between traits. 
+  This project came about as a less parametric, higher dimensional outgrowth of my interest in Mendelian randomization (see Projects page for more). Methodologically, I am interested in empirical and variational Bayes, causal inference, and robust/non-parameteric approaches. Recently, I've been thinking and learning about neural networks and methods that can be distributed across many computing systems. 
   <br>
   <a href = "https://scholar.google.com/citations?hl=en&user=r6fNZ6cAAAAJ">See my publications on Google Scholar</a>
   </td>
@@ -39,6 +39,6 @@ keywords: Jean, JADE, FRET, statistics, statistical genetics, gene regulation
 
 <div class="container">
   <div id = "hide_email">
-	Email: <code>morrison.jeanv at gmail.com</code><br/>
+	Email: <code>jvmorr at umich.edu</code><br/>
   </div>
 </div>
