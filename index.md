@@ -10,6 +10,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/cv-jean.pdf">cv</a></li>
           <li><a href="https://github.com/jean997">github</a></li>
+	  <li><a href="https://scholar.google.com/citations?hl=en&user=r6fNZ6cAAAAJ">google scholar</a></li>
       </ul>
   </div>
 </div>
