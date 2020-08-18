@@ -30,7 +30,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
    <br> I develop statistical methods motivated by problems in genetics and genomics. Currently, my research focuses on understanding patterns of pleiotropy (genetic sharing) across large numbers of traits. 
-  This project came about as a less parametric, higher dimensional outgrowth of my interest in Mendelian randomization (see Projects page for more). Methodologically, I am interested in empirical and variational Bayes, causal inference, and robust/non-parameteric approaches. Recently, I've been thinking and learning about neural networks and methods that can be distributed across many computing systems. 
+  This project came about as a less parametric, higher dimensional outgrowth of my interest in Mendelian randomization (see Projects). Methodologically, I am interested in empirical and variational Bayes, causal inference, and robust/non-parameteric approaches. Recently, I've been thinking and learning about neural networks and methods that can be distributed across many computing systems. 
   </td>
 
 </tr>
