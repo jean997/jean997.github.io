@@ -28,7 +28,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
    I received my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
  <br>
-   <br> I develop statistical methods motivated by problems in genetics and genomics. Currently, my research focuses on comparing patterns of pleiotropy (shared genetic associations) across many related phenotypes and using these patterns to infer underlying biological mechanisms and relationships between traits. 
+   <br> I develop statistical methods motivated by problems in genetics and genomics. Currently, my research focuses on understanding patterns of pleiotropy (genetic sharing) across large numbers of traits. 
   This project came about as a less parametric, higher dimensional outgrowth of my interest in Mendelian randomization (see Projects page for more). Methodologically, I am interested in empirical and variational Bayes, causal inference, and robust/non-parameteric approaches. Recently, I've been thinking and learning about neural networks and methods that can be distributed across many computing systems. 
   <br>
   <a href = "https://scholar.google.com/citations?hl=en&user=r6fNZ6cAAAAJ">See my publications on Google Scholar</a>
