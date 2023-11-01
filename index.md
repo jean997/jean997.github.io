@@ -19,18 +19,18 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
 <table class="wide">
 <tr>
   <td class="left" width="50%">
-	<img src="pages/pics/Jean-5.png" style="width: 75%" alt="Me!" title = "profile picture"/>
+	<img src="pages/pics/jean_um1.png" style="width: 75%" alt="Me!" title = "profile picture"/>
    </td>
   <td class="left">
-  I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. Previously, I did a postdoc 
+  I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. 
+  I develop statistical methods motivated by problems in genetics and genomics. I am interested in Mendelian randomization, and other methods for exploiting patterns of pleiotropy (genetic sharing) across traits to understand human biology. <br>
+   <br>
+ 
+ Previously, I have been a postdoc
  	co-mentored by <a href="http://xinhelab.org">Xin He</a> and <a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
   in the <a href="http://www.genes.uchicago.edu">Department of 
-	Human Genetics</a> at the University of Chicago.
-   I received my Ph.D. in 2016 in Biostatistics from the <a href="https://www.biostat.washington.edu">University of Washington</a>
+	Human Genetics</a> at the University of Chicago and a graduate student at the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
- <br>
-   <br> I develop statistical methods motivated by problems in genetics and genomics. Currently, my research focuses on understanding patterns of pleiotropy (genetic sharing) across large numbers of traits. 
-  This project came about as a less parametric, higher dimensional outgrowth of my interest in Mendelian randomization (see Projects). Methodologically, I am interested in empirical and variational Bayes, causal inference, and robust/non-parameteric approaches. Recently, I've been thinking and learning about neural networks and methods that can be distributed across many computing systems. 
   </td>
 
 </tr>
