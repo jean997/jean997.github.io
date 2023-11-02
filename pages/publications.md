@@ -28,7 +28,7 @@ Okamoto, J., Wang, L., Yin, X., Luca, F., Pique-Regi, R., Helms, A., Im, H. K., 
 
 <u>MR Review: </u>
 
-Sanderson, E., Glymour, M. M., Holmes, M. V., Kang, H., Morrison, J., Munafò, M. R., Palmer, T., Schooling, C. M., Wallace, C., Zhao, Q. & Davey Smith, G. Mendelian randomization. en. Nature Reviews Methods Primers 2. PMCID: PMC7614635, 1–21 (Feb. 2022). [pdf](pages/papers/s43586-021-00092-5.pdf)
+Sanderson, E., Glymour, M. M., Holmes, M. V., Kang, H., Morrison, J., Munafò, M. R., Palmer, T., Schooling, C. M., Wallace, C., Zhao, Q. & Davey Smith, G. Mendelian randomization. en. Nature Reviews Methods Primers 2. PMCID: PMC7614635, 1–21 (Feb. 2022). [pdf](papers/s43586-021-00092-5.pdf)
 
 #### 2020
 
