@@ -23,7 +23,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
    </td>
   <td class="left">
   I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. 
-  I develop statistical methods motivated by problems in genetics and genomics. I am interested in Mendelian randomization, and other methods for exploiting patterns of pleiotropy (genetic sharing) across traits to understand human biology. <br>
+  I develop statistical methods motivated by problems in genetics and genomics. I am particularly interested in Mendelian randomization and other methods for exploiting patterns of pleiotropy (genetic sharing) across traits to understand human biology. I also work on a range of statistical genetics topics including confounding and selection bias in GWAS and statistical  methods for integrating across multiple -omic data types. <br>
    <br>
  
  Previously, I have been a postdoc
