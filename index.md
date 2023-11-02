@@ -30,7 +30,13 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
  	co-mentored by <a href="http://xinhelab.org">Xin He</a> and <a href="http://stephenslab.uchicago.edu">Matthew Stephens</a>.
   in the <a href="http://www.genes.uchicago.edu">Department of 
 	Human Genetics</a> at the University of Chicago and a graduate student at the <a href="https://www.biostat.washington.edu">University of Washington</a>
-  	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.
+  	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.<br>
+   <br>
+  	
+  	<br>
+   <br>
+   <a href="https://kbroman.org/">Website template borrowed from Karl Broman</a>
+  	
   </td>
 
 </tr>
