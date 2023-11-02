@@ -5,6 +5,8 @@ description:
 keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
 ---
 
+<!--
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -14,6 +16,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
       </ul>
   </div>
 </div>
+-->
 
 <!--style> .equal-width td {   width: 50%; } </style--> 
 <table class="wide">
