@@ -22,7 +22,7 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
 <table class="wide">
 <tr>
   <td class="left" width="50%">
-	<img src="pages/pics/jean_um1.png" style="width: 75%" alt="Me!" title = "profile picture"/>
+	<img src="pages/pics/jean_um1_smaller.png" style="width: 75%" alt="Me!" title = "profile picture"/>
    </td>
   <td class="left">
   I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. 
