@@ -2,7 +2,7 @@
 layout: frontpage
 title: Jean Morrison
 description: 
-keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
+keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics, Mendelian Randomization
 ---
 
 <!--
@@ -35,7 +35,10 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics
 	Human Genetics</a> at the University of Chicago and a graduate student at the <a href="https://www.biostat.washington.edu">University of Washington</a>
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.<br>
    <br>
-  	
+
+For prospective PhD and Masters students: If you have not yet been admitted to the University of Michigan Biostatistics program, you should <a href = "https://sph.umich.edu/biostat/biostatistics-prospective-students.html">apply through our centralized admissions process</a>. You are also welcome to send me an email to introduce yourself. However, please note that I cannot directly admit you to the program. You must apply through the centralized process. If you are an admitted or current student at University of Michigan, get in touch by email and I will be happy to talk to you about research opportunities! 
+
+   
   	<br>
    <br>
    <a href="https://kbroman.org/">Website template borrowed from Karl Broman</a>
