@@ -2,7 +2,7 @@
 layout: frontpage
 title: Jean Morrison
 description: 
-keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics, Mendelian Randomization
+keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics, Mendelian randomization, genetic factor analysis
 ---
 
 <!--
@@ -26,7 +26,11 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics, Mendelian R
    </td>
   <td class="left">
   I am an Assistant Professor in the <a href="https://sph.umich.edu/biostat/">Department of Biostatistics</a> at the University of Michigan. 
-  I develop statistical methods motivated by problems in genetics and genomics. I am particularly interested in Mendelian randomization and other methods for exploiting patterns of pleiotropy (genetic sharing) across traits to understand human biology. I also work on a range of statistical genetics topics including confounding and selection bias in GWAS and statistical  methods for integrating across multiple -omic data types. <br>
+  I develop statistical methods motivated by problems in genetics and genomics. 
+  I am particularly interested in Mendelian randomization and other methods for exploiting patterns of pleiotropy (genetic sharing) across traits
+  to understand human biology. 
+  I also work on a range of statistical genetics topics including confounding and selection bias in GWAS, analysis of
+  epigenome data, and statistical  methods for integrating across multiple -omic data types. <br>
    <br>
  
  Previously, I have been a postdoc
@@ -36,7 +40,11 @@ keywords: Jean, JADE, FRET, CAUSE, statistics, statistical genetics, Mendelian R
   	advised by <a href="http://www.faculty.washington.edu/nrsimon/">Noah Simon</a>.<br>
    <br>
 
-For prospective PhD and Masters students: If you have not yet been admitted to the University of Michigan Biostatistics program, you should <a href = "https://sph.umich.edu/biostat/biostatistics-prospective-students.html">apply through our centralized admissions process</a>. You are also welcome to send me an email to introduce yourself. However, please note that I cannot directly admit you to the program. If you are an admitted or current student at University of Michigan, get in touch by email and I will be happy to talk to you about research opportunities! 
+For prospective PhD and Masters students: If you have not yet been admitted to the University of Michigan Biostatistics program, 
+you should <a href = "https://sph.umich.edu/biostat/biostatistics-prospective-students.html">apply through our centralized admissions process</a>. 
+You are also welcome to send me an email to introduce yourself. 
+However, please note that I cannot directly admit you to the program. 
+If you are an admitted or current student at University of Michigan, get in touch by email and I will be happy to talk to you about research opportunities! 
 
    
   	<br>
